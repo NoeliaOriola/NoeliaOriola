@@ -4,15 +4,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+Welcome!;" />
 
 ### About me:
-A Fresh Data Analytics graduated initiating a career in this exciting field.
-This journey started by attending the Ironhack Data Analytics bootcamp where I completed my first projects, and was able to get lots of hands-on experience. 
-At the moment I am familiar with the tools SQL, Pyton, Tableau and their libraries, but I am continuously working on other challenges to continue to improve my skills and learn more everyday.
-I am excited to take on new challenges and contribute to projects that make a positive impact for decision-makers.
+I'm Noelia, a dedicated data analyst with a diverse background in Customer Service, Learning & Development, and Talent Acquisition.
+My journey into data analytics was driven by my fascination with how data can uncover hidden patterns, drive strategic decisions and business success in any role or industry.
+
+I work with tools like Excel, SQL, Python, Tableau, and PowerBI to solve complex problems and tell compelling stories through data.
+Check out my Projects section to see how I enhance efficiency, improve customer experiences, and support strategic planning through data analysis. You'll also find examples of my ongoing learning journey and growing expertise in the field.
+
+Feel free to reach out with any questions or just to chat.
+I look forward to exploring opportunities together.
+
+Thank you for visiting!
 
 </div>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/NoeliaOriola](https://github.com/NoeliaOriola)
+- 👨‍💻 All of my projects are available at https://noeliaoriola.wixsite.com/portfolio 
 
 - 📫 How to reach me **noeliaoriola@gmail.com**
 
@@ -33,16 +39,6 @@ I am excited to take on new challenges and contribute to projects that make a po
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
-### My Projects:
-On my current projects, I've applied a variety of data analysis techniques to manage diverse real case datasets, from descriptive and inferentail statistics to predictive machine learning using python, SQL, tableau, ETL pipelines.
-
-1. Environmental Impact Assessment on Food Production -> Utilized descriptive analysis to assess environmental impact for agricultural projects across Brazil, Colombia, Costa Rica, and Mexico.
-  
-2. Song Recommender Spotify -> Employed clustering techniques to develop a compelling presentation showcasing a song recommendation algorithm
-   
-3. Prection Employee Attrition -> Implemented machine learning models to predict employee attrition and inform retention strategies
-   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noeliaoriola&label=Profile%20views&color=0e75b6&style=flat" alt="noeliaoriola" /> </p>
 
